@@ -8,7 +8,7 @@ Image matting aims to estimate a continuous alpha matte that separates foregroun
 
 ## Get Started
 
-* Install [ViTMatte](https://github.com/hustvl/ViTMatte). (Warning: different from ViTMatte, the input (image only, without trimap) of our model contains 3 channels. Therefore the pretrained/preprocess.py is slightly different.)
+* Install [ViTMatte](https://github.com/hustvl/ViTMatte).
 * Prepare the dataset, e.g., [AM-2K](https://github.com/JizhiziLi/GFM)
 
 * Run 
