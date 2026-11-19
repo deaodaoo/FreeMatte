@@ -33,7 +33,7 @@ If you find our work useful in your research, please consider citing our paper:
 
 ## Acknowledgements
 
-Our work builds upon [DDC-Matting](#) and [ViTMatte](#). We sincerely thank the authors for their valuable contributions and for making their work publicly available.
+Our work builds upon [DDC-Matting](https://github.com/poppuppy/alpha-free-matting) and [ViTMatte](https://github.com/hustvl/ViTMatte). We sincerely thank the authors for their valuable contributions and for making their work publicly available.
 
 ## Mask Priors
 
