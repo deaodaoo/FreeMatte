@@ -17,3 +17,25 @@ bash train.sh
 ```
 to train the model.
 
+
+
+If you find our work useful in your research, please consider citing our paper:
+
+```bibtex
+@inproceedings{huang2026image,
+  title={Image Matting without Matting-Specific Annotations via Eikonal Fields},
+  author={Tao Huang and WangYi and Xiaohong Zhang and Wei Zhang and Tao Yin and Zhibin Zhang and Qiuli Wang},
+  booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
+  year={2026},
+  url={https://openreview.net/forum?id=X2jELwz645}
+}
+```
+
+## Acknowledgements
+
+Our work builds upon [DDC-Matting](#) and [ViTMatte](#). We sincerely thank the authors for their valuable contributions and for making their work publicly available.
+
+## Mask Priors
+
+The mask priors used in this work will also be made publicly available in the future.
+
